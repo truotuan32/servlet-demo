@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HomeController.java&apos; to &apos;myBusiness/src/main/java/mytest.maven.controller.web&apos;&#x0D;&#x0A;- Original project: &apos;myBusiness&apos;&#x0D;&#x0A;- Destination element: &apos;myBusiness/src/main/java/mytest.maven.controller.web&apos;&#x0D;&#x0A;- Original element: &apos;mytest.maven.controller.admin.HomeController.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;mytest.maven.controller.web" element1="/src\/main\/java&lt;mytest.maven.controller.admin{HomeController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685205382211" units="1" version="1.0"/>
+</session>

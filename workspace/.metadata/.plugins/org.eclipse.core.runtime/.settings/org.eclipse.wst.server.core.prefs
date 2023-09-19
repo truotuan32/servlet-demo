@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Tomcat v9" location\="C\:/Tomcat" name\="Tomcat v9" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.90" timestamp\="0"/>\r\n  <runtime id\="Tomcat v8.5" location\="C\:/install/apache-tomcat-8.5.34" name\="Tomcat v8.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.85" timestamp\="0"/>\r\n</runtimes>\r\n
